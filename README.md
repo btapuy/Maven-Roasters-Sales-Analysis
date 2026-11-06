@@ -50,11 +50,14 @@ Hell's Kitchen generated the highest revenue at approximately $236.5K, followed 
 
 ## Project Files
 
-- `SQL/01_data_cleaning.sql` — Data preparation and SQL view creation
-- `SQL/02_exploratory_analysis.sql` — Exploratory data analysis
-- `SQL/03_business_analysis.sql` — Business performance queries
-- `Dashboard/Maven_Roasters_Sales_Analysis.twbx` — Interactive Tableau workbook
-- `Dashboard/Maven_Roasters_Sales_Performance_Final.pdf` — Three-page sales report
+### Tableau Dashboard & Report
+- [Download Interactive Tableau Workbook](Dashboard/Maven_Roasters_Sales_Analysis.twbx)
+- [View Sales Performance PDF Report](Dashboard/Maven_Roasters_Sales_Performance_Final.pdf)
+
+### SQL Analysis
+- [Data Cleaning](SQL/01_data_cleaning.sql)
+- [Exploratory Data Analysis](SQL/02_exploratory_analysis.sql)
+- [Business Analysis](SQL/03_business_analysis.sql)
 
 ## Data Source
 
