@@ -1,7 +1,7 @@
 # Maven Roasters | Sales Performance Analysis
 
 ### SQL + Tableau Business Analytics Portfolio Project
-
+![Maven Roasters Sales Dashboard](./Maven_Roasters_Dashboard.png)
 ## Project Overview
 
 Analyzed 149,116 coffee shop transactions across three New York City locations from January through June 2023 to evaluate sales performance, revenue growth, product demand, and purchasing patterns.
